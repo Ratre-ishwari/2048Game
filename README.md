@@ -35,4 +35,4 @@ Check out the deployed game here: [2048 Game](https://ratre-ishwari.github.io/20
 If you'd like to run the game locally, you can clone this repository:
 
 ```bash
-git clone https://github.com/your-username/2048Game.git
+git clone https://github.com/Ratre-ishwari/2048Game.git
